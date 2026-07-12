@@ -23,10 +23,6 @@ The dataset was **self-collected** (custom-built) covering samples of English, P
 | Train Accuracy | 1.0 |
 | Test Accuracy | 0.5 |
 
-> ⚠️ **Note:** The large gap between train accuracy (1.0) and test accuracy (0.5) indicates **overfitting**. The model has likely memorized the training data rather than learning generalizable patterns. Consider the following improvements:
-> - Increase and diversify the dataset
-> - Use cross-validation during training
-
 ### How to Run
 This project is provided as a **Jupyter Notebook**.
 
